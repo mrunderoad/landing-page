@@ -34,11 +34,27 @@ margin-top: 10px;
   color: orangered;
   text-align: center;
 }
-.img1 {
-  
-}
 
 .column {
   width: 33%;
-  float: right;
+  float: left;
+}
+
+.img1 {
+  width: 400px;
+  height: 200px;
+  padding-left: 20px;
+  text-align: center;
+}
+
+.img2 {
+  width: 500px;
+  height: 250px;
+  text-align: center;
+}
+
+.img3 {
+  width: 400px;
+  height: 200px;
+  padding-right: 20px;
 }
