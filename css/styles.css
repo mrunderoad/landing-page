@@ -23,6 +23,8 @@ background-color: aquamarine;
 margin-top: 10px;
 padding-top: 25px;
 padding-bottom: 25px;
+border-radius: 50px;
+text-align: center;
 }
 
 @keyframes slidein {
@@ -41,9 +43,14 @@ padding-bottom: 25px;
   margin-bottom: 20px;
 }
 
+.card {
+  border-radius: 40px;
+}
+
 .card-body {
   background-color: black;
   opacity: 0.7;
+  border-radius: 40px;
 }
 
 .card-text {
@@ -77,6 +84,7 @@ padding-bottom: 25px;
   margin-left: 20px;
   text-align: center;
   border: 5px solid red;
+  border-radius: 30px;
 }
 
 .img1-txt {
@@ -91,6 +99,7 @@ padding-bottom: 25px;
   height: 250px;
   text-align: center;
   border: 5px solid blue;
+  border-radius: 30px;
 }
 
 .img2-txt {
@@ -106,6 +115,7 @@ padding-bottom: 25px;
   margin-left:30px;
   margin-right: 20px;
   border: 5px solid red;
+  border-radius: 30px;
 }
 
 .img3-txt {
