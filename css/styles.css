@@ -29,3 +29,16 @@ margin-top: 10px;
 .card-title {
   color: lightsalmon;
 }
+
+.gallery {
+  color: orangered;
+  text-align: center;
+}
+.img1 {
+  
+}
+
+.column {
+  width: 33%;
+  float: right;
+}
