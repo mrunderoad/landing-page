@@ -5,11 +5,15 @@ font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 
 a:hover {
   color: crimson;
+  transition: ease-in;
+  transition-duration: 1s;
 }
 
 .jumbotron {
 background-color: aquamarine;
 margin-top: 10px;
+padding-top: 25px;
+padding-bottom: 25px;
 }
 
 .row {
@@ -44,6 +48,7 @@ margin-top: 10px;
 .column {
   width: 33%;
   float: left;
+  padding-bottom: 40px;
 }
 
 .img1 {
@@ -90,6 +95,7 @@ margin-top: 10px;
 .bg {
   text-align: center;
   color: aqua;
+  font-size: 40px;
 }
 
 .my-bg {
@@ -108,4 +114,15 @@ ol {
   text-align: center;
   list-style-position: inside;
   font-size: 20px;
+}
+
+.education {
+  text-align: center;
+  font-size: 25px;
+  padding-left: 60px;
+  padding-right: 60px;
+}
+
+.chs {
+  color: green
 }
