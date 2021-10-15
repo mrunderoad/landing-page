@@ -1,3 +1,31 @@
 h1 {
 font-size: 50px;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+a:hover {
+  color: crimson;
+}
+
+.jumbotron {
+background-color: aquamarine;
+margin-top: 10px;
+}
+
+.row {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.card-body {
+  background-color: black;
+  opacity: 0.7;
+}
+
+.card-text {
+  color: darkgoldenrod;
+}
+
+.card-title {
+  color: lightsalmon;
 }
