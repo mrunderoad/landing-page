@@ -23,8 +23,6 @@ background-color: aquamarine;
 margin-top: 10px;
 padding-top: 25px;
 padding-bottom: 25px;
-animation-duration: 2s;
-animation-name:inherit;
 }
 
 @keyframes slidein {

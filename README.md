@@ -7,7 +7,7 @@
 * Bootstrap
 
 ## Description 
-This page is all about me. It showcases some of my previous work and says a bit about me. It is for people to look at if they're curious about my work and or who I am.
+This page is all about showing my work to the world. It showcases some of my previous work and says a bit about me. It is for people to look at if they're curious about my work and or who I am.
 
 ### Setup Instructions
 No setup or installations required to run this page!
