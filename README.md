@@ -13,11 +13,13 @@ This page is all about showing my work to the world. It showcases some of my pre
 https://mrunderoad.github.io/landing-page/
 
 ### Setup Instructions
-No setup or installations required to run this page!
+1. Clone the project from https://github.com/mrunderoad/landing-page
+2. Navigate to the landing-page file on your computer
+3. Open the index.html file to view the site
 
 ## Bugs
 No known bugs, possibly just the border not fitting to picture correctly.
 
 ## Licensing
-No licensing for this project.
-10/15/2021
+MIT
+Copyright © @IsaacOverstreet
